@@ -1,1 +1,1 @@
-THis is a project which has been create using Core Java and Object-oriented Programming concepts.
+The ATM Machine Interface project is implemented in Java, utilizing core language features and standard libraries. It provides a comprehensive interface for managing bank accounts, and facilitating operations such as deposits, withdrawals, and fund transfers. The project encompasses functionalities for setting and retrieving account details, enhancing user experience and efficiency in banking transactions.
